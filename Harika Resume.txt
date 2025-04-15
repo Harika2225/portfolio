@@ -1,0 +1,109 @@
+HARIKA SREE TUMMALAKUNTLA
++918143200530
+
+harikasree2k@gmail.com
+
+linkedin.com/in/harika-sree-tummalakuntla/
+
+Software Engineer | Front-End Development Expert | Experienced with React & TypeScript
+
+PROFILE SUMMARY
+Software Engineer Developer with 3+ years of experience, currently contributing to the development
+of customer-facing features at a leading Parking Management company, aimed at improving
+operational efficiency and enhancing user experience.
+Specializing in React, Next.js, JavaScript and TypeScript, Python with a strong foundation in Full-stack
+development, I work cross-functionally to build scalable web applications that support business growth
+and increase user satisfaction.
+Recognized for exceptional collaboration skills, effectively working cross-functionally to translate
+complex business requirements into impactful technical solutions aligned with organizational goals.
+
+WORK EXPERIENCE
+
+Xebia (coMakeIT) | Hyderabad
+Jul 2023 – Present
+Front-End Developer
+Software Engineer
+Industry: Parking Management Company
+Competency: Cloud-Native Web App Development
+Architecture Modernization: Led the integration of a standalone React application into a legacy Ruby on
+Rails monolith using Hasura GraphQL, improving system scalability, maintainability, and performance by
+40%.
+Decoupling & Deployment: Orchestrated a complete frontend-backend decoupling and rollout, achieving
+100% successful migration from the Rails MVC framework.
+Reusable UI Components: Published a private NPM library to standardize component usage across
+repositories, reducing redundant development effort by 30%.
+GraphQL API Optimization: Implemented efficient GraphQL API integrations, enhancing data handling
+and reducing response times by 25%.
+Agile Delivery: Spearheaded urgent cross-team tasks within 24 hours, earning client recognition for
+speed and quality.
+Rapid Feature Delivery: Accelerated the launch of a complex feature set, deploying 2 weeks ahead of
+schedule and setting a new internal benchmark.
+Skills: ReactJS, Ruby on Rails, Hasura GraphQL
+
+Associate Software Engineer
+Jul 2022 - Jun 2023
+Industry: Software Development Platform
+Competency: Modern Web Applications & Microservice Architectures
+Data Engineering: Designed scalable data pipelines using Python and Spark, cutting processing time by
+40%.
+AI Integration: Built a Langchain-powered PDF chatbot, improving document search efficiency by 70%.
+Cloud-First ETL Workflows: Deployed Apache Airflow with AWS Glue DataBrew, ensuring 99.9% uptime
+for production ETL pipelines.
+Cloud Architecture: Architected end-to-end cloud-native solutions with AWS, enabling seamless
+production deployments.
+Developer Productivity: Delivered visual workflow UIs using ReactFlow, increasing dev team efficiency
+by 35%.
+Rapid Frontend Delivery: Utilized JHipster for frontend scaffolding and introduced feature flags in
+React/Angular, enabling safe and fast rollouts.
+Skills: Python, Spark, Apache Airflow, AWS, ReactJS, GCP Data Fusion, Feature Flags, Go, Angular
+
+Project Engineer
+Sep 2021- Jun 2022
+Industry: Local Services Marketplace
+Competency: Web & Mobile App Development
+Cross-Platform UI Development: Built high-performance UIs using Angular (web) and React Native
+(mobile), boosting app performance by 25%.
+Feature Delivery: Delivered features like real-time chat through close collaboration with backend and
+product teams, earning client accolades.
+Cross-Platform Proficiency: Quickly became productive in multiple stacks (Angular, React Native),
+reducing ramp-up time by 50%.
+Code Quality: Promoted clean coding standards and QA-friendly development, reducing bug count by
+30%.
+Legacy System Contributions: Contributed to a J2EE-based airline booking system, optimizing UI with
+HTML, CSS, JavaScript, and Java.
+Skills: Angular, React Native, HTML, CSS, JavaScript, Java, J2EE
+
+EDUCATION
+
+B.Tech, Computer Science and Engineering
+CMR College of Engineering and Technology, Hyderabad
+
+2018 - 2022
+9.02 CGPA
+
+MPC,
+Sri Gayatri Junior College
+
+2016 - 2018
+95%
+
+High School
+St. Ann’s Grammar School
+
+2015-2016
+9.8 CGPA
+
+TECHNICAL SKILLS
+
+ReactJS, Redux, Next.js, JavaScript, TypeScript, HTML, Cascading Style Sheets (CSS), SASS/SCSS, Tailwind
+CSS, Bootstrap, Webpack, Node.js, Express.js, RESTful APIs, GraphQL, Python, C++, MongoDB, SQL, Agile
+methodologies, version control (Git),Github, Python, Apache Airflow, Data structures, algorithms
+
+CORE COMPETENCIES
+Enterprise-grade development, front-end development,Web Development, responsive design, accessibility,
+scalable web tech, agile methodologies, cross-functional collaboration, secure applications, UI/UX
+optimization, cloud computing, RESTful API development, microservices architecture, SQL/NoSQL database
+design, web analytics, SEO best practices, performance optimization, mobile-first development, DevOps
+practices, Continuous Integration/Continuous Deployment (CI/CD)
+
+
