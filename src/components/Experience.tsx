@@ -66,9 +66,8 @@ const experiences: Experience[] = [
   }
 ];
 
-const Experience: React.FC = () => {
+const ExperienceSection: React.FC = () => {
   const [expandedId, setExpandedId] = useState<string | null>(null);
-  const [hoveredId, setHoveredId] = useState<string | null>(null);
 
   const toggleExperience = (id: string) => {
     setExpandedId(expandedId === id ? null : id);
@@ -141,8 +140,6 @@ const Experience: React.FC = () => {
                   ? 'border-gray-500 scale-[1.02] shadow-[0_0_2rem_0_rgba(156,163,175,0.1)]'
                   : 'border-gray-700 hover:border-gray-500'
               }`}
-              onMouseEnter={() => setHoveredId(experience.id)}
-              onMouseLeave={() => setHoveredId(null)}
             >
               <div
                 className="p-6 cursor-pointer"
@@ -233,4 +230,4 @@ const Experience: React.FC = () => {
   );
 };
 
-export default Experience; 
+export default ExperienceSection; 

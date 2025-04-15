@@ -3,11 +3,6 @@ import { motion } from 'framer-motion';
 import { 
   FaReact, 
   FaServer, 
-  FaTools, 
-  FaDatabase, 
-  FaCloud,
-  FaDocker,
-  FaGitAlt,
   FaNodeJs
 } from 'react-icons/fa';
 import { 
@@ -21,7 +16,6 @@ import {
   SiNextdotjs,
   SiRedux,
   SiJest,
-  SiCypress,
   SiAmazonaws,
   SiDocker,
   SiKubernetes,

@@ -1,12 +1,10 @@
-import React, { useEffect, useState, useRef } from "react";
+import React, { useEffect, useState, useMemo } from "react";
 import { motion } from "framer-motion";
 import {
   FaGithub,
   FaLinkedin,
   FaEnvelope,
   FaArrowRight,
-  FaTerminal,
-  FaCode,
   FaHome,
   FaUser,
   FaTools,
@@ -65,7 +63,7 @@ const Terminal: React.FC = () => {
   const [isMinimized, setIsMinimized] = useState(false);
   const [isHovered, setIsHovered] = useState(false);
 
-  const sections = [
+  const sections = useMemo(() => [
     {
       title: "Skills",
       content: [
@@ -94,7 +92,7 @@ const Terminal: React.FC = () => {
         "> Specializing in React & TypeScript",
       ],
     },
-  ];
+  ], []);
 
   useEffect(() => {
     const currentSectionContent = sections[currentSection];
@@ -120,7 +118,7 @@ const Terminal: React.FC = () => {
 
       return () => clearTimeout(timeout);
     }
-  }, [currentIndex, currentSection]);
+  }, [currentIndex, currentSection, sections]);
 
   return (
     <motion.div
